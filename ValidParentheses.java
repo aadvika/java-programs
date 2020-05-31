@@ -1,3 +1,9 @@
+/***************************************************************************************
+ * This code is written by Aadvika Ahuja (student of The Shriram Millennium School).
+ * It can not be copied and/or distributed without the express permission of author.
+ * For more info please contact author via e-mail aadvika.ahuja@gmail.com
+ ***************************************************************************************/
+
 //To check validity of Parentheses in a string.
 //String contains all character of Parentheses only.
 //Valid Parentheses characters = ( ) { } [ ]
