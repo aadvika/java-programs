@@ -1,4 +1,3 @@
-import java.util.Scanner;
 /*************************************************************************************************
  * This code is written by Aadvika Ahuja (student of The Shriram Millennium School, Noida INDIA).
  * It can not be copied and/or distributed without the express permission of author.
@@ -26,7 +25,7 @@ import java.util.Scanner;
  * 4.6 to 5.0	Super Hit
  * Write a main method to create an object of the class and call the above member methods.
  */
-
+import java.util.Scanner;
 
 public class MovieMagic {
     int year;
