@@ -4,7 +4,7 @@
  * For more info please contact author via e-mail aadvika.ahuja@gmail.com.
  *************************************************************************************************/
 
-//Check presence of an integer in given unsorted array of integers using Binary Search.
+//Program to check presence of an integer in given unsorted array of integers using Binary Search.
 
 import java.util.Arrays;
 
