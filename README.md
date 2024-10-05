@@ -1,2 +1,2 @@
 # java-programs
-Collection of my java programs in High School
+Collection of my java programs from High School
